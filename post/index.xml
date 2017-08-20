@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>First Post</title>
+      <title>Registered vehicles on UK roads</title>
       <link>https://biyka.github.io/2017/08/first-post/</link>
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://biyka.github.io/2017/08/first-post/</guid>
-      <description>This is a test first post</description>
+      <description>This is a trial first post using blogdown.
+dat %&amp;lt;&amp;gt;% melt(value.name = &amp;quot;Vehicles&amp;quot;) dat %&amp;gt;% ggplot(aes(x=Year, y=Vehicles, fill=variable),stat = identity) + geom_col() + theme_bw() + coord_flip() </description>
     </item>
     
   </channel>
